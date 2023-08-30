@@ -1,5 +1,6 @@
 # Добро пожаловать на дуэльный сервер **сообщевства ландскнехтов!**
-Дискорд: <a id="LANDSKNECTS MORDHAU RUS">https://discord.gg/landsknechts</> [Ссылка текстом: https://discord.gg/landsknechts]
+Дискорд: <a id="LANDSKNECTS MORDHAU RUS">https://discord.gg/landsknechts</> 
+[Ссылка текстом: https://discord.gg/landsknechts]
 ### **Правила:**
 1. Соблюдайте базовые правила приличия.
 2. Это *дуэльный* сервер - **FFA** запрещён.

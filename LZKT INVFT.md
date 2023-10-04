@@ -1,5 +1,5 @@
 # Добро пожаловать на  сервер **сообщевства ландскнехтов!**
-Дискорд: <a id="LANDSKNECTS MORDHAU RUS">https://discord.gg/landsknecht</> 
+Дискорд: https://discord.gg/landsknechts</> [Ссылка текстом: https://discord.gg/landsknechts]
 [Ссылка текстом: https://discord.gg/landsknecht]
 ### **Информация о сервере:**
 - На сервере отключен повторный спавн лошадей, катапульт, баллист. 
